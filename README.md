@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- My name is Đạt, but you can call me Dievis. This repository showcases everything I have achieved.
+- I'm a gamer and also a game developer. I'm deeply passionate about creating games and finding balance in everything that happens in my life.
+
+ 
+
 <!--
 **Dievis/Dievis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
