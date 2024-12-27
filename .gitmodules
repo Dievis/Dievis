@@ -1,3 +1,8 @@
 [submodule "Repo Libs/Game/DACNNEWMAP"]
 	path = Repo Libs/Game/DACNNEWMAP
 	url = https://github.com/NecRose01/DACNNEWMAP.git
+
+
+[submodule "Repo Libs/Blog/Themes/poison"]
+	path = Repo Libs/Blog/Themes/poison
+	url = https://github.com/lukeorth/poison.git	
