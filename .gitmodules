@@ -2,3 +2,6 @@
 	path = Repo Libs/Game/DACNNEWMAP
 	url = https://github.com/NecRose01/DACNNEWMAP.git
 
+[submodule "Repo Libs/Blog/DievisBlog"]
+	path = Repo Libs/Blog/DievisBlog
+	url = https://github.com/Dievis/DievisBlog.git
